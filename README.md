@@ -6,4 +6,4 @@ Unlike generic dumpers, CS Flux was designed around flexibility and rapid iterat
 
 Check my website csflux.netlify.app for the free CS2 Cheat ( all open source ) that uses these offsets, It was all custom made and ALL CREDIT goes towards me.
 
-UPDATED LATEST CS UPDATE 2026-05-28
+UPDATED LATEST CS UPDATE 2026-06-02
